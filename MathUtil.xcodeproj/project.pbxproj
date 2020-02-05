@@ -208,7 +208,7 @@
 					};
 					FC6312651F21DF9800FE23E0 = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = 52RD2GH5DP;
+						DevelopmentTeam = A4CDD66V9D;
 						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 					};
@@ -460,7 +460,7 @@
 		FC63126F1F21DF9800FE23E0 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = 52RD2GH5DP;
+				DEVELOPMENT_TEAM = A4CDD66V9D;
 				INFOPLIST_FILE = MathUtilTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.squareup.sihao.MathUtilTests;
@@ -473,7 +473,7 @@
 		FC6312701F21DF9800FE23E0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = 52RD2GH5DP;
+				DEVELOPMENT_TEAM = A4CDD66V9D;
 				INFOPLIST_FILE = MathUtilTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.squareup.sihao.MathUtilTests;

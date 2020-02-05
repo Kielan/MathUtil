@@ -6,7 +6,7 @@ Pod::Spec.new do |spec|
   spec.license = { type: 'MIT', file: 'LICENSE' }
   spec.authors = { "Your Name" => 'ki.lemons@gmail.com' }
 
-  spec.platform = :ios, "11.3"
+  spec.platform = :ios, "4.0"
   spec.requires_arc = true
   spec.source = { git: "https://github.com/kielan/MathUtil.git", tag: "v#{spec.version}", submodules: true }
   spec.source_files = "RGB/**/*.{h,swift}"

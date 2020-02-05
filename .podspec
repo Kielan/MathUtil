@@ -9,7 +9,7 @@ Pod::Spec.new do |spec|
   spec.platform = :ios, "13.2"
   platform :ios, "13.2"
   spec.requires_arc = true
-  spec.source = { git: "https://github.com/kielan/MathUtil.git", tag: "v#{spec.version}", submodules: true }
+  spec.source = { git: "https://github.com/kielan/MathUtil.git" }
   spec.source_files = "RGB/**/*.{h,swift}"
 
   spec.dependency "Curry", "~> 1.4.0"
